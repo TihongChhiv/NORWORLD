@@ -1,0 +1,31 @@
+.cart-clean {
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+    font-size: 16px;
+  }
+  
+  .cart-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #3b82f6;
+    margin-bottom: 10px;
+  }
+  
+  .cart-lines {
+    white-space: pre-line;
+    line-height: 1.8;
+  }
+  
+  .total {
+    font-weight: bold;
+    color: gold;
+    margin-top: 5px;
+  }
+  
+  .empty {
+    color: #ccc;
+    font-size: 15px;
+  }
+  
