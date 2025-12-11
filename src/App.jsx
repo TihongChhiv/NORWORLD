@@ -31,7 +31,7 @@ function App() {
 
       {/* Shared layout for both pages */}
       <div className="banner-section">
-        <img className="banner" src="/images/Highlight.png" alt="Highlight" />
+        <img className="banner" src="images/Highlight.png" alt="Highlight" />
         <div className="category-dropdown">
           <select onChange={(e) => setSelectedCategory(e.target.value)} value={selectedCategory}>
             <option value="All">All</option>
